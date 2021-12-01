@@ -1,5 +1,5 @@
 # WaveSimulation
-MATLAB wave simulation
+Neat little MATLAB wave simulation
 
 No packages are required beyond MATLAB default.
 
